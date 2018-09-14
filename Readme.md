@@ -24,3 +24,15 @@ The grammar is still in draft but so far I will expect something like this:
  * We can _pipe_ functions, for example, `#{|today|format('%Y-%m-%d)}` will execute in _left-to-right_ order.
 
  
+## Included functions
+
+TBD
+
+## Grammar
+
+TBD
+
+## How to embed in my project?
+
+TBD
+
